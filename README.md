@@ -1,5 +1,5 @@
 ## Hi there 👋
-I program for fun.
+I am Nandan Bali. I program for fun.
 
 ### I am interested by...
 - Mobile application development: _10^n times the power of the Apollo 11 mission, all in the palm of your hands_
