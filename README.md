@@ -1,5 +1,16 @@
 ## Hi there 👋
+I program for fun.
 
+### I am interested by...
+- Mobile application development: _10^n times the power of the Apollo 11 mission, all in the palm of your hands_
+
+- Computer networks: _figuring out how the internet works_
+- Computer graphics: _figuring out why triangles are special_
+- Machine learning: _figuring out how to do fun stuff with ML_
+
+### Connect
+- [University Mail](mailto:f20240380@pilani.bits-pilani.ac.in)
+- Website: Coming soon™ 
 <!--
 **NandanBali/NandanBali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
