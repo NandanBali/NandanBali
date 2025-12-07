@@ -2,26 +2,10 @@
 I am Nandan Bali. I program for fun.
 
 ### I am interested by...
-- Mobile application development: _10^n times the power of the Apollo 11 mission, all in the palm of your hands_
-
-- Computer networks: _figuring out how the internet works_
-- Computer graphics: _figuring out why triangles are special_
-- Machine learning: _figuring out how to do fun stuff with ML_
+- computer graphics
+- machine learning
+- functional programming 
 
 ### Connect
 - [University Mail](mailto:f20240380@pilani.bits-pilani.ac.in)
-- Website: Coming soon™ 
-<!--
-**NandanBali/NandanBali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Website: Coming soon™
