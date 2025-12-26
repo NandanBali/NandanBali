@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Nandan Bali. I program for fun.
 
-### I am interested by...
+### I am interested in...
 - computer graphics
 - machine learning
 - functional programming 
