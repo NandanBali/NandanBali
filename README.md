@@ -1,10 +1,15 @@
-## Hi there 👋
-I am Nandan Bali. I program for fun.
+## whoami
+I am Nandan Bali. I program for fun (and occasionally profit).
 
-### I am interested in...
-- computer graphics
-- machine learning
-- functional programming 
+### rocks
+- mobile phones (react native, flutter) 
+- network and systems programming (go)
+- functional programming (scala)
+- post punk revival
+
+### sucks
+- dynamically typed languages
+- vibecoding
 
 ### Connect
 - [University Mail](mailto:f20240380@pilani.bits-pilani.ac.in)
