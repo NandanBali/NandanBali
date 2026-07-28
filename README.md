@@ -1,4 +1,3 @@
-# whoami
 "Gee, I wish I had one of them doomsday machines"
 
 # Connect
